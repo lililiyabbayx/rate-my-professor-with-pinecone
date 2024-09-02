@@ -1,0 +1,64 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Alan Turing",
+        "subject": "Cryptography",
+        "stars": 5,
+        "review": "Dr. Turing's insights into code-breaking are mind-blowing. His historical anecdotes make the class unforgettable."
+      },
+      {
+        "professor": "Prof. Marie Curie",
+        "subject": "Radiochemistry",
+        "stars": 4,
+        "review": "Brilliant lecturer, but the lab work can be intimidating. Proper safety protocols are strictly enforced."
+      },
+      {
+        "professor": "Dr. Neil deGrasse Tyson",
+        "subject": "Astrophysics",
+        "stars": 5,
+        "review": "His enthusiasm for space is contagious! The planetarium sessions are a highlight of the course."
+      },
+      {
+        "professor": "Prof. Jane Goodall",
+        "subject": "Primatology",
+        "stars": 4,
+        "review": "Her firsthand experiences with chimps bring the subject to life. Field trip to the local zoo was eye-opening."
+      },
+      {
+        "professor": "Dr. Stephen Hawking",
+        "subject": "Quantum Mechanics",
+        "stars": 3,
+        "review": "Incredibly complex subject matter. Dr. Hawking's explanations are clear, but the math is challenging."
+      },
+      {
+        "professor": "Prof. Noam Chomsky",
+        "subject": "Linguistics",
+        "stars": 5,
+        "review": "Thought-provoking lectures that challenge your understanding of language. Heavy reading list, but worth it."
+      },
+      {
+        "professor": "Dr. Barbara McClintock",
+        "subject": "Genetics",
+        "stars": 4,
+        "review": "Her research on gene regulation is fascinating. The corn breeding experiment was a semester highlight."
+      },
+      {
+        "professor": "Prof. Michio Kaku",
+        "subject": "Theoretical Physics",
+        "stars": 5,
+        "review": "Makes mind-bending concepts accessible. His predictions about future tech are particularly intriguing."
+      },
+      {
+        "professor": "Dr. Jane Austen",
+        "subject": "19th Century Literature",
+        "stars": 4,
+        "review": "Insightful analysis of period novels. The mock tea party helped understand social contexts of the era."
+      },
+      {
+        "professor": "Prof. Tim Berners-Lee",
+        "subject": "Web Technologies",
+        "stars": 5,
+        "review": "Who better to learn web dev from than the inventor of the World Wide Web? Inspiring and practical."
+      }
+    ]
+  }
